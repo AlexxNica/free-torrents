@@ -1,6 +1,6 @@
 # Free Torrents
 
-### List of public domain and Creative Commons magnet links and torrent files
+### List of public domain and Creative Commons torrents
 
 - Big Buck Bunny
   - [magnet](magnet:?xt=urn:btih:88594aaacbde40ef3e2510c47374ec0aa396c08e&dn=bbb_sunflower_1080p_30fps_normal.mp4&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&ws=http%3A%2F%2Fdistribution.bbb3d.renderfarming.net%2Fvideo%2Fmp4%2Fbbb_sunflower_1080p_30fps_normal.mp4)
